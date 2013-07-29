@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksCube", "RubiksCube\RubiksCube\RubiksCube.csproj", "{079C80C2-7A15-405F-B48D-ED334C4F8EE1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RubiksCubeContent", "RubiksCube\RubiksCubeContent\RubiksCubeContent.contentproj", "{E52FE862-A65C-40B7-8A26-BBEB068BA193}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079C80C2-7A15-405F-B48D-ED334C4F8EE1}.Debug|x86.ActiveCfg = Debug|x86
+		{079C80C2-7A15-405F-B48D-ED334C4F8EE1}.Debug|x86.Build.0 = Debug|x86
+		{079C80C2-7A15-405F-B48D-ED334C4F8EE1}.Release|x86.ActiveCfg = Release|x86
+		{079C80C2-7A15-405F-B48D-ED334C4F8EE1}.Release|x86.Build.0 = Release|x86
+		{E52FE862-A65C-40B7-8A26-BBEB068BA193}.Debug|x86.ActiveCfg = Debug|x86
+		{E52FE862-A65C-40B7-8A26-BBEB068BA193}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
